@@ -1,0 +1,20 @@
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+
+body {
+  font-family: serif;
+  font-size: 16px;
+  margin: 0px;
+}
+h1,h2,h3{
+  font-family: serif;
+  font-weight: bold;
+  font-size: 30px;
+}
+a {
+  text-decoration: none;
+}
